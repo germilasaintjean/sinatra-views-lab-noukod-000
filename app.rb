@@ -11,7 +11,7 @@ get '/goodbye'do
 end
 
 get '/hello'do
-	erb :date
+	erb :hello
 end
 
 get '/date'do
